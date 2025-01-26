@@ -1,4 +1,4 @@
-# 🌐 My Awesome CSS Project
+# 🌐 Movie App Version 2
 
 Welcome to my awesome CSS project! This project showcases a beautiful gradient background and uses the Poppins font from Google Fonts.
 
